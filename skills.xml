@@ -1,0 +1,37 @@
+<root>
+    <Theory>
+        <item>виды</item>
+        <item>уровни</item>
+        <item>документация</item>
+    </Theory>
+    <ClientServerArchitecture>
+        <item>клиент</item>
+        <item>сервер</item>
+        <item>протоколы</item>
+    </ClientServerArchitecture>
+    <TestDesignTechniques>
+        <item>классы эквивалентности</item>
+        <item>граничные значения</item>
+        <item>попарное тестирование</item>
+        <item>таблица принятия решений</item>
+    </TestDesignTechniques>
+    <Tools>
+        <item>DevTools</item>
+        <item>Postman</item>
+        <item>Charles</item>
+        <item>Fiddler</item>
+        <item>Git</item>
+        <item>Android Studio</item>
+        <item>Jmeter</item>
+    </Tools>
+    <SQL>
+        <item>Create</item>
+        <item>Delete</item>
+        <item>Drop</item>
+        <item>Insert Into</item>
+        <item>Select</item>
+        <item>From</item>
+        <item>Where</item>
+        <item>Join</item>
+    </SQL>
+</root>
